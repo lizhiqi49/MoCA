@@ -21,7 +21,7 @@ MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation
 ```bibtex
 @misc{li2025moca,
       title={MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation}, 
-      author={Zhiqi Li and Wenhuan Li and Tengfei Wang and Zhenwei Wang and Junta Wu and Haoyuan Wang and Yunhan Yang and Zehuan Huang and Yang Li and Peidong Liu and Chunchao Guo},
+      author={Zhiqi Li and Wenhuan Li and Tengfei Wang and Zhenwei Wang and Junta Wu and Haoyuan Wang and Yunhan Yang and Zehuan Huang and Yang Li and Chunchao Guo and Peidong Liu},
       year={2025},
       eprint={2512.07628},
       archivePrefix={arXiv},
